@@ -15,11 +15,11 @@ import (
 	"syscall"
 	"time"
 
+	"github.com/kokka-team/nakama-investor-be/lib/generate"
+	"github.com/kokka-team/nakama-investor-be/lib/panics"
+	"github.com/kokka-team/nakama-investor-be/lib/router"
+	"github.com/kokka-team/nakama-investor-be/lib/slack"
 	nsq "github.com/nsqio/go-nsq"
-	"github.com/template/be/lib/generate"
-	"github.com/template/be/lib/panics"
-	"github.com/template/be/lib/router"
-	"github.com/template/be/lib/slack"
 )
 
 var newOnce sync.Once

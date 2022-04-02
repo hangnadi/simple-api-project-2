@@ -4,7 +4,7 @@ import (
 	"os"
 	"testing"
 
-	. "github.com/template/be/lib/nsq/gonsq"
+	. "github.com/kokka-team/nakama-investor-be/lib/nsq/gonsq"
 )
 
 func TestMain(m *testing.M) {

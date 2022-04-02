@@ -3,7 +3,7 @@ package apitest
 import (
 	"context"
 
-	"github.com/template/be/lib/router"
+	"github.com/kokka-team/nakama-investor-be/lib/router"
 )
 
 var instance *Module

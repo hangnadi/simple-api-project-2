@@ -5,8 +5,8 @@ import (
 	"testing"
 
 	"github.com/h2non/gock"
+	. "github.com/kokka-team/nakama-investor-be/lib/slack"
 	"github.com/stretchr/testify/assert"
-	. "github.com/template/be/lib/slack"
 )
 
 func TestSend(t *testing.T) {

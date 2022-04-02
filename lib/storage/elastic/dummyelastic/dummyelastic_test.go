@@ -6,9 +6,9 @@ import (
 	"fmt"
 	"testing"
 
+	"github.com/kokka-team/nakama-investor-be/lib/storage/elastic"
+	. "github.com/kokka-team/nakama-investor-be/lib/storage/elastic/dummyelastic"
 	"github.com/stretchr/testify/assert"
-	"github.com/template/be/lib/storage/elastic"
-	. "github.com/template/be/lib/storage/elastic/dummyelastic"
 )
 
 func TestGetClientSuccess(t *testing.T) {

@@ -25,10 +25,10 @@ import (
 	"time"
 
 	gops "github.com/google/gops/agent"
-	"github.com/template/be/cmd/internal"
-	logging "github.com/template/be/lib/logging"
-	"github.com/template/be/lib/server"
-	"github.com/template/be/locale"
+	"github.com/kokka-team/nakama-investor-be/cmd/internal"
+	logging "github.com/kokka-team/nakama-investor-be/lib/logging"
+	"github.com/kokka-team/nakama-investor-be/lib/server"
+	"github.com/kokka-team/nakama-investor-be/locale"
 )
 
 func main() {

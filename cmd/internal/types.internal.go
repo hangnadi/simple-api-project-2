@@ -1,8 +1,8 @@
 package internal
 
 import (
+	"github.com/kokka-team/nakama-investor-be/internal/usecase"
 	nsqio "github.com/nsqio/go-nsq"
-	"github.com/template/be/internal/usecase"
 )
 
 // Config big struct

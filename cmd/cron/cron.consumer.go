@@ -7,11 +7,11 @@ import (
 	"strings"
 	"time"
 
+	"github.com/kokka-team/nakama-investor-be/cmd/internal"
+	testCon "github.com/kokka-team/nakama-investor-be/consumer/test"
+	"github.com/kokka-team/nakama-investor-be/lib/panics"
 	nsq "github.com/nsqio/go-nsq"
 	c "github.com/robfig/cron"
-	"github.com/template/be/cmd/internal"
-	testCon "github.com/template/be/consumer/test"
-	"github.com/template/be/lib/panics"
 )
 
 var allConsumers = []*nsq.Consumer{}

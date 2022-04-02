@@ -4,8 +4,8 @@ import (
 	"errors"
 	"testing"
 
+	. "github.com/kokka-team/nakama-investor-be/lib/storage/redis"
 	"github.com/stretchr/testify/assert"
-	. "github.com/template/be/lib/storage/redis"
 )
 
 func TestInt(t *testing.T) {

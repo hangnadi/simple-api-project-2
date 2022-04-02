@@ -1,7 +1,7 @@
 package sqlt
 
 import (
-	tkpdSqlt "github.com/template/be/lib/sqlt"
+	tkpdSqlt "github.com/kokka-team/nakama-investor-be/lib/sqlt"
 )
 
 // Config database configuration

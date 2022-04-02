@@ -10,7 +10,7 @@ import (
 	"time"
 
 	"github.com/julienschmidt/httprouter"
-	"github.com/template/be/lib/router"
+	"github.com/kokka-team/nakama-investor-be/lib/router"
 )
 
 type (

@@ -10,9 +10,9 @@ import (
 
 	// PostgreSQL
 	"github.com/jmoiron/sqlx"
+	tkpdSqlt "github.com/kokka-team/nakama-investor-be/lib/sqlt"
+	"github.com/kokka-team/nakama-investor-be/lib/storage/database"
 	_ "github.com/lib/pq"
-	tkpdSqlt "github.com/template/be/lib/sqlt"
-	"github.com/template/be/lib/storage/database"
 )
 
 // New sqlt module

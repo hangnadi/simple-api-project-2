@@ -7,8 +7,8 @@ import (
 	"sort"
 	"testing"
 
+	. "github.com/kokka-team/nakama-investor-be/lib/router"
 	"github.com/stretchr/testify/assert"
-	. "github.com/template/be/lib/router"
 )
 
 func TestServeHTTP(t *testing.T) {

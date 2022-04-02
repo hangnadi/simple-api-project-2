@@ -3,8 +3,8 @@ package dummyrds_test
 import (
 	"testing"
 
+	. "github.com/kokka-team/nakama-investor-be/lib/storage/redis/dummyrds"
 	"github.com/stretchr/testify/assert"
-	. "github.com/template/be/lib/storage/redis/dummyrds"
 )
 
 func TestGet(t *testing.T) {

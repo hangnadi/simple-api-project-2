@@ -3,8 +3,8 @@ package gonsq
 import (
 	"errors"
 
+	"github.com/kokka-team/nakama-investor-be/lib/nsq"
 	nsqlib "github.com/nsqio/go-nsq"
-	"github.com/template/be/lib/nsq"
 )
 
 type consumer struct {

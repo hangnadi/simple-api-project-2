@@ -4,8 +4,8 @@ import (
 	"net/http"
 	"testing"
 
+	. "github.com/kokka-team/nakama-investor-be/lib/router"
 	"github.com/stretchr/testify/assert"
-	. "github.com/template/be/lib/router"
 )
 
 func TestError(t *testing.T) {

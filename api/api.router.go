@@ -11,11 +11,11 @@ import (
 	"time"
 
 	"github.com/julienschmidt/httprouter"
+	"github.com/kokka-team/nakama-investor-be/ctxs"
+	"github.com/kokka-team/nakama-investor-be/lib/language"
+	"github.com/kokka-team/nakama-investor-be/lib/router"
+	"github.com/kokka-team/nakama-investor-be/locale"
 	opentracing "github.com/opentracing/opentracing-go"
-	"github.com/template/be/ctxs"
-	"github.com/template/be/lib/language"
-	"github.com/template/be/lib/router"
-	"github.com/template/be/locale"
 )
 
 var (

@@ -6,9 +6,9 @@ import (
 	gnsq "github.com/nsqio/go-nsq"
 
 	"github.com/h2non/gock"
+	"github.com/kokka-team/nakama-investor-be/lib/nsq"
+	. "github.com/kokka-team/nakama-investor-be/lib/nsq/gonsq"
 	"github.com/stretchr/testify/assert"
-	"github.com/template/be/lib/nsq"
-	. "github.com/template/be/lib/nsq/gonsq"
 )
 
 func TestInitFailed(t *testing.T) {

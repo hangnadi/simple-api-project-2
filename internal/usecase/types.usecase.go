@@ -1,7 +1,7 @@
 package usecase
 
 import (
-	"github.com/template/be/internal/controller"
+	"github.com/kokka-team/nakama-investor-be/internal/controller"
 )
 
 //  Usecase module

@@ -4,7 +4,7 @@ import (
 	"os"
 	"testing"
 
-	"github.com/template/be/lib/constants/env"
+	"github.com/kokka-team/nakama-investor-be/lib/constants/env"
 )
 
 func TestMain(m *testing.M) {

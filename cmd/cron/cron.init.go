@@ -1,9 +1,9 @@
 package main
 
 import (
+	"github.com/kokka-team/nakama-investor-be/cmd/internal"
+	"github.com/kokka-team/nakama-investor-be/lib/panics"
 	c "github.com/robfig/cron"
-	"github.com/template/be/cmd/internal"
-	"github.com/template/be/lib/panics"
 )
 
 var (

@@ -7,9 +7,9 @@ import (
 	"net/http/httputil"
 	"runtime/debug"
 
+	"github.com/kokka-team/nakama-investor-be/lib/panics"
+	"github.com/kokka-team/nakama-investor-be/lib/router"
 	nsq "github.com/nsqio/go-nsq"
-	"github.com/template/be/lib/panics"
-	"github.com/template/be/lib/router"
 )
 
 // New dummy panics

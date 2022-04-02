@@ -4,9 +4,9 @@ import (
 	"context"
 	"net/http"
 
-	"github.com/template/be/lib/language"
-	"github.com/template/be/lib/router"
-	"github.com/template/be/locale"
+	"github.com/kokka-team/nakama-investor-be/lib/language"
+	"github.com/kokka-team/nakama-investor-be/lib/router"
+	"github.com/kokka-team/nakama-investor-be/locale"
 )
 
 // Get all holidays

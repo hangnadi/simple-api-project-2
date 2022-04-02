@@ -3,7 +3,7 @@ package locale
 import (
 	"testing"
 
-	"github.com/template/be/lib/language"
+	"github.com/kokka-team/nakama-investor-be/lib/language"
 )
 
 func TestLocale(t *testing.T) {

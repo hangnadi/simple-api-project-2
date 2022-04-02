@@ -4,9 +4,9 @@ import (
 	"errors"
 	"fmt"
 
+	"github.com/kokka-team/nakama-investor-be/lib/env"
+	"github.com/kokka-team/nakama-investor-be/lib/language"
 	"github.com/nicksnyder/go-i18n/i18n"
-	"github.com/template/be/lib/env"
-	"github.com/template/be/lib/language"
 )
 
 type localeModule struct {

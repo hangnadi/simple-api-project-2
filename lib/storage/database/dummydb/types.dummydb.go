@@ -1,7 +1,7 @@
 package dummydb
 
 import (
-	tkpdSqlt "github.com/template/be/lib/sqlt"
+	tkpdSqlt "github.com/kokka-team/nakama-investor-be/lib/sqlt"
 )
 
 type dummyDB struct {

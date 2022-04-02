@@ -9,10 +9,10 @@ import (
 	"time"
 
 	"github.com/h2non/gock"
+	. "github.com/kokka-team/nakama-investor-be/lib/panics/toslack"
+	"github.com/kokka-team/nakama-investor-be/lib/router"
 	nsq "github.com/nsqio/go-nsq"
 	"github.com/stretchr/testify/assert"
-	. "github.com/template/be/lib/panics/toslack"
-	"github.com/template/be/lib/router"
 )
 
 func TestInitPanicError(t *testing.T) {

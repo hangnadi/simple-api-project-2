@@ -4,7 +4,7 @@ import (
 	"time"
 
 	rgo "github.com/gomodule/redigo/redis"
-	"github.com/template/be/lib/storage/redis"
+	"github.com/kokka-team/nakama-investor-be/lib/storage/redis"
 )
 
 // New redis redigo module

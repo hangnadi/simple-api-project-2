@@ -1,6 +1,6 @@
 package controller
 
-import "github.com/template/be/internal/repository"
+import "github.com/kokka-team/nakama-investor-be/internal/repository"
 
 // NewSystem New system service
 func NewSystem(systemRP repository.System) System {

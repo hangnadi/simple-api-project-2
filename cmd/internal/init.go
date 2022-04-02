@@ -3,17 +3,17 @@ package internal
 import (
 	"log"
 
-	"github.com/template/be/lib/nsq"
-	"github.com/template/be/lib/nsq/gonsq"
-	"github.com/template/be/lib/panics"
-	"github.com/template/be/lib/panics/tolog"
-	"github.com/template/be/lib/panics/toslack"
-	"github.com/template/be/lib/storage/database"
-	"github.com/template/be/lib/storage/database/sqlt"
-	"github.com/template/be/lib/storage/elastic"
-	v5 "github.com/template/be/lib/storage/elastic/v5"
-	"github.com/template/be/lib/storage/redis"
-	"github.com/template/be/lib/storage/redis/redigo"
+	"github.com/kokka-team/nakama-investor-be/lib/nsq"
+	"github.com/kokka-team/nakama-investor-be/lib/nsq/gonsq"
+	"github.com/kokka-team/nakama-investor-be/lib/panics"
+	"github.com/kokka-team/nakama-investor-be/lib/panics/tolog"
+	"github.com/kokka-team/nakama-investor-be/lib/panics/toslack"
+	"github.com/kokka-team/nakama-investor-be/lib/storage/database"
+	"github.com/kokka-team/nakama-investor-be/lib/storage/database/sqlt"
+	"github.com/kokka-team/nakama-investor-be/lib/storage/elastic"
+	v5 "github.com/kokka-team/nakama-investor-be/lib/storage/elastic/v5"
+	"github.com/kokka-team/nakama-investor-be/lib/storage/redis"
+	"github.com/kokka-team/nakama-investor-be/lib/storage/redis/redigo"
 )
 
 // init NSQ prodocuer module

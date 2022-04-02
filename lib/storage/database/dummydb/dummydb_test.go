@@ -4,8 +4,8 @@ import (
 	"errors"
 	"testing"
 
+	. "github.com/kokka-team/nakama-investor-be/lib/storage/database/dummydb"
 	"github.com/stretchr/testify/assert"
-	. "github.com/template/be/lib/storage/database/dummydb"
 	sqlmock "gopkg.in/DATA-DOG/go-sqlmock.v1"
 )
 

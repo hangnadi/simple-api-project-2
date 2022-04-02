@@ -3,8 +3,8 @@ package localcache_test
 import (
 	"testing"
 
+	. "github.com/kokka-team/nakama-investor-be/lib/storage/localcache"
 	"github.com/stretchr/testify/assert"
-	. "github.com/template/be/lib/storage/localcache"
 )
 
 func TestLocalcache(t *testing.T) {
