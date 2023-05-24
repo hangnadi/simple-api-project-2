@@ -7,8 +7,8 @@ import (
 	"net/http/httputil"
 	"runtime/debug"
 
-	"github.com/kokka-team/nakama-investor-be/lib/panics"
-	"github.com/kokka-team/nakama-investor-be/lib/router"
+	"github.com/hangnadi/simple-api-project-2/lib/panics"
+	"github.com/hangnadi/simple-api-project-2/lib/router"
 	nsq "github.com/nsqio/go-nsq"
 )
 

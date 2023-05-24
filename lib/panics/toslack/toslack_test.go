@@ -9,8 +9,8 @@ import (
 	"time"
 
 	"github.com/h2non/gock"
-	. "github.com/kokka-team/nakama-investor-be/lib/panics/toslack"
-	"github.com/kokka-team/nakama-investor-be/lib/router"
+	. "github.com/hangnadi/simple-api-project-2/lib/panics/toslack"
+	"github.com/hangnadi/simple-api-project-2/lib/router"
 	nsq "github.com/nsqio/go-nsq"
 	"github.com/stretchr/testify/assert"
 )

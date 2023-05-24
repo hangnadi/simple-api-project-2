@@ -4,8 +4,8 @@ import (
 	"errors"
 	"fmt"
 
-	"github.com/kokka-team/nakama-investor-be/lib/env"
-	"github.com/kokka-team/nakama-investor-be/lib/language"
+	"github.com/hangnadi/simple-api-project-2/lib/env"
+	"github.com/hangnadi/simple-api-project-2/lib/language"
 	"github.com/nicksnyder/go-i18n/i18n"
 )
 

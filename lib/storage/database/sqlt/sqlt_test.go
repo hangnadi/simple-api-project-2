@@ -3,7 +3,7 @@ package sqlt_test
 import (
 	"testing"
 
-	. "github.com/kokka-team/nakama-investor-be/lib/storage/database/sqlt"
+	. "github.com/hangnadi/simple-api-project-2/lib/storage/database/sqlt"
 	"github.com/stretchr/testify/assert"
 )
 

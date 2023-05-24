@@ -15,10 +15,10 @@ import (
 	"syscall"
 	"time"
 
-	"github.com/kokka-team/nakama-investor-be/lib/generate"
-	"github.com/kokka-team/nakama-investor-be/lib/panics"
-	"github.com/kokka-team/nakama-investor-be/lib/router"
-	"github.com/kokka-team/nakama-investor-be/lib/slack"
+	"github.com/hangnadi/simple-api-project-2/lib/generate"
+	"github.com/hangnadi/simple-api-project-2/lib/panics"
+	"github.com/hangnadi/simple-api-project-2/lib/router"
+	"github.com/hangnadi/simple-api-project-2/lib/slack"
 	nsq "github.com/nsqio/go-nsq"
 )
 

@@ -3,7 +3,7 @@ package server_test
 import (
 	"testing"
 
-	. "github.com/kokka-team/nakama-investor-be/lib/server"
+	. "github.com/hangnadi/simple-api-project-2/lib/server"
 	"github.com/stretchr/testify/assert"
 )
 

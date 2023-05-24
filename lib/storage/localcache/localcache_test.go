@@ -3,7 +3,7 @@ package localcache_test
 import (
 	"testing"
 
-	. "github.com/kokka-team/nakama-investor-be/lib/storage/localcache"
+	. "github.com/hangnadi/simple-api-project-2/lib/storage/localcache"
 	"github.com/stretchr/testify/assert"
 )
 

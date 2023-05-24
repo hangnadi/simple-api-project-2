@@ -4,10 +4,10 @@ import (
 	"net/http"
 	"time"
 
-	"github.com/kokka-team/nakama-investor-be/api"
-	"github.com/kokka-team/nakama-investor-be/api/productName/apitest"
-	"github.com/kokka-team/nakama-investor-be/cmd/internal"
-	"github.com/kokka-team/nakama-investor-be/lib/panics"
+	"github.com/hangnadi/simple-api-project-2/api"
+	"github.com/hangnadi/simple-api-project-2/api/productName/apitest"
+	"github.com/hangnadi/simple-api-project-2/cmd/internal"
+	"github.com/hangnadi/simple-api-project-2/lib/panics"
 )
 
 // Initialize all routes for API

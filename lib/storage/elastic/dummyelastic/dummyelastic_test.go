@@ -6,8 +6,8 @@ import (
 	"fmt"
 	"testing"
 
-	"github.com/kokka-team/nakama-investor-be/lib/storage/elastic"
-	. "github.com/kokka-team/nakama-investor-be/lib/storage/elastic/dummyelastic"
+	"github.com/hangnadi/simple-api-project-2/lib/storage/elastic"
+	. "github.com/hangnadi/simple-api-project-2/lib/storage/elastic/dummyelastic"
 	"github.com/stretchr/testify/assert"
 )
 

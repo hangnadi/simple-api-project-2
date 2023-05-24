@@ -3,7 +3,7 @@ package redigo_test
 import (
 	"testing"
 
-	. "github.com/kokka-team/nakama-investor-be/lib/storage/redis/redigo"
+	. "github.com/hangnadi/simple-api-project-2/lib/storage/redis/redigo"
 	"github.com/stretchr/testify/assert"
 )
 

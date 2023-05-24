@@ -4,7 +4,7 @@ import (
 	"context"
 	"net/http"
 
-	"github.com/kokka-team/nakama-investor-be/lib/router"
+	"github.com/hangnadi/simple-api-project-2/lib/router"
 	nsq "github.com/nsqio/go-nsq"
 )
 

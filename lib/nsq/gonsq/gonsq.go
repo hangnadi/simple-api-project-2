@@ -3,7 +3,7 @@ package gonsq
 import (
 	"log"
 
-	"github.com/kokka-team/nakama-investor-be/lib/nsq"
+	"github.com/hangnadi/simple-api-project-2/lib/nsq"
 	gnsq "github.com/nsqio/go-nsq"
 )
 

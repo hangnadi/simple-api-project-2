@@ -1,4 +1,4 @@
-module github.com/kokka-team/nakama-investor-be
+module github.com/hangnadi/simple-api-project-2
 
 go 1.18
 

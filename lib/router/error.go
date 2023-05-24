@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"sort"
 
-	"github.com/kokka-team/nakama-investor-be/lib/convert"
+	"github.com/hangnadi/simple-api-project-2/lib/convert"
 )
 
 // NewError for JSON standard API error

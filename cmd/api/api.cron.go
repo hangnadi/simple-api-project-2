@@ -1,8 +1,8 @@
 package main
 
 import (
-	"github.com/kokka-team/nakama-investor-be/cmd/internal"
-	"github.com/kokka-team/nakama-investor-be/lib/panics"
+	"github.com/hangnadi/simple-api-project-2/cmd/internal"
+	"github.com/hangnadi/simple-api-project-2/lib/panics"
 	c "github.com/robfig/cron"
 )
 

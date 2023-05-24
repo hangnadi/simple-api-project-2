@@ -9,9 +9,9 @@ import (
 	_ "github.com/go-sql-driver/mysql"
 
 	// PostgreSQL
+	tkpdSqlt "github.com/hangnadi/simple-api-project-2/lib/sqlt"
+	"github.com/hangnadi/simple-api-project-2/lib/storage/database"
 	"github.com/jmoiron/sqlx"
-	tkpdSqlt "github.com/kokka-team/nakama-investor-be/lib/sqlt"
-	"github.com/kokka-team/nakama-investor-be/lib/storage/database"
 	_ "github.com/lib/pq"
 )
 

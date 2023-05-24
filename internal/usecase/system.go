@@ -1,7 +1,7 @@
 package usecase
 
 import (
-	"github.com/kokka-team/nakama-investor-be/internal/controller"
+	"github.com/hangnadi/simple-api-project-2/internal/controller"
 )
 
 // NewSystem new system usecase

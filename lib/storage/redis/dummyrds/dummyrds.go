@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/kokka-team/nakama-investor-be/lib/storage/redis"
+	"github.com/hangnadi/simple-api-project-2/lib/storage/redis"
 )
 
 // New module for mocking

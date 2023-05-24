@@ -1,7 +1,7 @@
 package gonsq
 
 import (
-	"github.com/kokka-team/nakama-investor-be/lib/nsq"
+	"github.com/hangnadi/simple-api-project-2/lib/nsq"
 	nsqlib "github.com/nsqio/go-nsq"
 )
 
