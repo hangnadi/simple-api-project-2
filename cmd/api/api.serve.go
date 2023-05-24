@@ -10,7 +10,7 @@ import (
 	"strconv"
 	"time"
 
-	"github.com/nytimes/gziphandler"
+	"github.com/NYTimes/gziphandler"
 )
 
 func serve(hport string, handler http.Handler) error {
