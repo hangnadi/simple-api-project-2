@@ -1,9 +1,9 @@
 package internal
 
 import (
-	"github.com/kokka-team/nakama-investor-be/internal/controller"
-	"github.com/kokka-team/nakama-investor-be/internal/repository"
-	"github.com/kokka-team/nakama-investor-be/internal/usecase"
+	"github.com/hangnadi/simple-api-project-2/internal/controller"
+	"github.com/hangnadi/simple-api-project-2/internal/repository"
+	"github.com/hangnadi/simple-api-project-2/internal/usecase"
 )
 
 // GetUsecase for project

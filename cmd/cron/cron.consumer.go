@@ -7,9 +7,9 @@ import (
 	"strings"
 	"time"
 
-	"github.com/kokka-team/nakama-investor-be/cmd/internal"
-	testCon "github.com/kokka-team/nakama-investor-be/consumer/test"
-	"github.com/kokka-team/nakama-investor-be/lib/panics"
+	"github.com/hangnadi/simple-api-project-2/cmd/internal"
+	testCon "github.com/hangnadi/simple-api-project-2/consumer/test"
+	"github.com/hangnadi/simple-api-project-2/lib/panics"
 	nsq "github.com/nsqio/go-nsq"
 	c "github.com/robfig/cron"
 )

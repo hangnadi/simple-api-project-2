@@ -3,17 +3,17 @@ package internal
 import (
 	"log"
 
-	"github.com/kokka-team/nakama-investor-be/lib/nsq"
-	"github.com/kokka-team/nakama-investor-be/lib/nsq/gonsq"
-	"github.com/kokka-team/nakama-investor-be/lib/panics"
-	"github.com/kokka-team/nakama-investor-be/lib/panics/tolog"
-	"github.com/kokka-team/nakama-investor-be/lib/panics/toslack"
-	"github.com/kokka-team/nakama-investor-be/lib/storage/database"
-	"github.com/kokka-team/nakama-investor-be/lib/storage/database/sqlt"
-	"github.com/kokka-team/nakama-investor-be/lib/storage/elastic"
-	v5 "github.com/kokka-team/nakama-investor-be/lib/storage/elastic/v5"
-	"github.com/kokka-team/nakama-investor-be/lib/storage/redis"
-	"github.com/kokka-team/nakama-investor-be/lib/storage/redis/redigo"
+	"github.com/hangnadi/simple-api-project-2/lib/nsq"
+	"github.com/hangnadi/simple-api-project-2/lib/nsq/gonsq"
+	"github.com/hangnadi/simple-api-project-2/lib/panics"
+	"github.com/hangnadi/simple-api-project-2/lib/panics/tolog"
+	"github.com/hangnadi/simple-api-project-2/lib/panics/toslack"
+	"github.com/hangnadi/simple-api-project-2/lib/storage/database"
+	"github.com/hangnadi/simple-api-project-2/lib/storage/database/sqlt"
+	"github.com/hangnadi/simple-api-project-2/lib/storage/elastic"
+	v5 "github.com/hangnadi/simple-api-project-2/lib/storage/elastic/v5"
+	"github.com/hangnadi/simple-api-project-2/lib/storage/redis"
+	"github.com/hangnadi/simple-api-project-2/lib/storage/redis/redigo"
 )
 
 // init NSQ prodocuer module

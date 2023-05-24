@@ -3,7 +3,7 @@ package dummy
 import (
 	"errors"
 
-	"github.com/kokka-team/nakama-investor-be/lib/nsq"
+	"github.com/hangnadi/simple-api-project-2/lib/nsq"
 )
 
 // New GoNSQ module

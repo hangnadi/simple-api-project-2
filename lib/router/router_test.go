@@ -7,7 +7,7 @@ import (
 	"sort"
 	"testing"
 
-	. "github.com/kokka-team/nakama-investor-be/lib/router"
+	. "github.com/hangnadi/simple-api-project-2/lib/router"
 	"github.com/stretchr/testify/assert"
 )
 

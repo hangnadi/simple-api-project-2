@@ -4,7 +4,7 @@ import (
 	"os"
 	"testing"
 
-	"github.com/kokka-team/nakama-investor-be/lib/env"
+	"github.com/hangnadi/simple-api-project-2/lib/env"
 )
 
 func TestMain(m *testing.M) {

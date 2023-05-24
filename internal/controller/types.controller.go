@@ -1,7 +1,7 @@
 package controller
 
 import (
-	"github.com/kokka-team/nakama-investor-be/internal/repository"
+	"github.com/hangnadi/simple-api-project-2/internal/repository"
 )
 
 // Service module

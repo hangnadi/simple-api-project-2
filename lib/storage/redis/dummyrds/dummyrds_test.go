@@ -3,7 +3,7 @@ package dummyrds_test
 import (
 	"testing"
 
-	. "github.com/kokka-team/nakama-investor-be/lib/storage/redis/dummyrds"
+	. "github.com/hangnadi/simple-api-project-2/lib/storage/redis/dummyrds"
 	"github.com/stretchr/testify/assert"
 )
 

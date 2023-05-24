@@ -1,7 +1,7 @@
 package internal
 
 import (
-	"github.com/kokka-team/nakama-investor-be/internal/usecase"
+	"github.com/hangnadi/simple-api-project-2/internal/usecase"
 	nsqio "github.com/nsqio/go-nsq"
 )
 

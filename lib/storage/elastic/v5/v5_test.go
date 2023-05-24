@@ -8,8 +8,8 @@ import (
 	"net/http/httptest"
 	"testing"
 
-	"github.com/kokka-team/nakama-investor-be/lib/storage/elastic"
-	. "github.com/kokka-team/nakama-investor-be/lib/storage/elastic/v5"
+	"github.com/hangnadi/simple-api-project-2/lib/storage/elastic"
+	. "github.com/hangnadi/simple-api-project-2/lib/storage/elastic/v5"
 	"github.com/stretchr/testify/assert"
 )
 

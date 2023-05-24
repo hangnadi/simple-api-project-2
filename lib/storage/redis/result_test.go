@@ -4,7 +4,7 @@ import (
 	"errors"
 	"testing"
 
-	. "github.com/kokka-team/nakama-investor-be/lib/storage/redis"
+	. "github.com/hangnadi/simple-api-project-2/lib/storage/redis"
 	"github.com/stretchr/testify/assert"
 )
 

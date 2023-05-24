@@ -2,7 +2,7 @@ package redis
 
 import (
 	rgo "github.com/gomodule/redigo/redis"
-	"github.com/kokka-team/nakama-investor-be/lib/convert"
+	"github.com/hangnadi/simple-api-project-2/lib/convert"
 )
 
 // Int result convertion type

@@ -10,11 +10,11 @@ import (
 	"strings"
 	"time"
 
+	"github.com/hangnadi/simple-api-project-2/ctxs"
+	"github.com/hangnadi/simple-api-project-2/lib/language"
+	"github.com/hangnadi/simple-api-project-2/lib/router"
+	"github.com/hangnadi/simple-api-project-2/locale"
 	"github.com/julienschmidt/httprouter"
-	"github.com/kokka-team/nakama-investor-be/ctxs"
-	"github.com/kokka-team/nakama-investor-be/lib/language"
-	"github.com/kokka-team/nakama-investor-be/lib/router"
-	"github.com/kokka-team/nakama-investor-be/locale"
 	opentracing "github.com/opentracing/opentracing-go"
 )
 
